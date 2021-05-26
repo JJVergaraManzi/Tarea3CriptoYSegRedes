@@ -10,7 +10,7 @@ iv   = "12345678123456781234123401972634"
 ivHex =binascii.a2b_hex(iv)
 #Keys a hexadecimal
 keysHex = binascii.a2b_hex(keys)
-
+#cifrado CFB
 cifrado = AES.new(keysHex, AES.MODE_CFB, iv= ivHex)
 
 #Encriptacion

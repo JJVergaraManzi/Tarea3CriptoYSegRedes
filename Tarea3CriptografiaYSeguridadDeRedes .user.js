@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Encriptación con crypto-js
 // @author       Juan José Vergara
-// @match        file:///C:/Users/juan2/Documents/cripto/Tarea3/*
+// @match        https://jjvergaramanzi.github.io/Tarea3CriptoYSegRedes/
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js
 // ==/UserScript==
